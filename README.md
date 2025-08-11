@@ -29,11 +29,25 @@
 
 ---
 
+## 📈 Most Used Languages
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faxiyor&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 👁‍🗨 Profile Visits
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faxiyor&color=00bfbf&style=flat-square&label=Profile+Views"/>
+</p>
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/Faxiyor"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://t.me/Faxriyor0705"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:fullstack0705@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fullstack0705@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <!-- Footer -->
