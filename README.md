@@ -36,6 +36,20 @@
 
 ---
 
+## 🗓 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faxiyor&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+## 💡 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
 ## 👁‍🗨 Profile Visits
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Faxiyor&color=00bfbf&style=flat-square&label=Profile+Views"/>
