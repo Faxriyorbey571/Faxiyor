@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Otabekov%20Faxriyor&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Text -->
-<p align="center">
+<p align="center"> 
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=I'm+a+Web+Developer;Java+%26+Spring+Boot+Enthusiast;Lifelong+Learner+%F0%9F%92%AA;Always+Building+Something+New">
   </a>
