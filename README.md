@@ -17,36 +17,36 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faxriyorbey&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faxiyor&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faxriyorbey571&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faxriyorbey571&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 📈 Most Used Languages
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faxiyor&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faxriyorbey571&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Faxiyor/Faxiyor/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Faxriyorbey/Faxriyorbey571/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
 ## 🗓 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faxiyor&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faxriyorbey571&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faxiyor&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Faxriyorbey571&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 
 ## 👁‍🗨 Profile Visits
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faxiyor&color=00bfbf&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Faxriyorbey571&color=00bfbf&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
