@@ -28,13 +28,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faxriyorbey571&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  ![Snake animation](https://raw.githubusercontent.com/Faxriyorbey571/Faxriyorbey571/output/github-contribution-grid-snake.svg)
-</p>
-
 
 ---
 
