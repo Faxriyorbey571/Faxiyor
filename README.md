@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faxiyor&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faxiyor&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faxriyorbey571&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
