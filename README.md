@@ -3,14 +3,26 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=I'm+a+Web+Developer;Java+%26+Spring+Boot+Enthusiast;Lifelong+Learner+%F0%9F%92%AA;Always+Building+Something+New"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=I'm+a+Web+Developer;Java+%26+Spring+Boot+Enthusiast;AI+%26+Backend+Explorer;Lifelong+Learner+%F0%9F%92%AA;Always+Building+Something+New"/>
 </p>
 
 ---
 
 ## 🚀 Skills
+
+### 🖥 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,git,github,mysql,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
+
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
+</p>
+
+### 🛠 Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
 </p>
 
 ---
@@ -28,12 +40,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faxriyorbey571&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-
 ---
 
-## 🗓 Contribution Graph
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faxriyorbey571&theme=tokyo-night&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/Faxriyorbey571/Faxriyorbey571/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -45,16 +56,16 @@
 
 ---
 
-## 💡 Quote of the Day
+## 💡 Favorite Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <b>"Code. Create. Conquer. 🚀"</b>
 </p>
 
 ---
 
 ## 👁‍🗨 Profile Visits
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faxriyorbey571&color=00bfbf&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Faxriyorbey571&color=00bfbf&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
