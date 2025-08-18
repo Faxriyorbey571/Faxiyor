@@ -13,6 +13,8 @@
 ### 🖥 Frontend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
 </p>
 
 ### ⚙️ Backend  
