@@ -33,8 +33,10 @@
 <!-- Achievements -->
 <div align="center">
 
-## 🏆 GitHub Achievements <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Faxriyorbey571&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/> </p>
----
+## 🏆 GitHub Achievements
+
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Faxiyor&theme=onedark&no-frame=true&margin-w=15&margin-h=15)
+
 
 <!-- Social connections -->
 <div align="center">
