@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=I'm+a+Web+Developer;Java+%26+Spring+Boot+Enthusiast;AI+%26+Backend+Explorer;Lifelong+Learner+%F0%9F%92%AA;Always+Building+Something+New"/>
 </p>
----
 
 <!-- Tech Stack -->
 <div align="center">
@@ -41,8 +40,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@fullstack0705)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/faxriyor_571)
 
-
----
 
 <!-- Quote -->
 <p align="center">
