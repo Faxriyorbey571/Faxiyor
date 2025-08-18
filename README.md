@@ -8,76 +8,66 @@
 
 ---
 
-## 🚀 Skills
-
-### 🖥 Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
-   <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
-</p>
-
-### ⚙️ Backend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
-</p>
-
-### 🛠 Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
-</p>
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faxriyorbey571&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faxriyorbey571&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faxriyorbey571&theme=tokyonight&hide_border=true&layout=compact" width="36%" /> </br>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faxriyorbey571&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faxriyorbey571&theme=tokyonight&hide_border=true"/>
-</p>
+<!-- Tech Stack -->
+<div align="center">
+  
+## 💻 Tech Stack ⚡
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
 
 ---
 
-## 📈 Most Used Languages
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faxriyorbey571&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faxriyorbey571/Faxriyorbey571/output/github-contribution-grid-snake.svg"/>
-</p>
-
-
----
+<!-- Achievements -->
+<div align="center">
 
 ## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faxriyorbey571&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Faxriyorbey571&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+
+</div>
 
 ---
 
-## 💡 Favorite Quote
+<!-- Social connections -->
+<div align="center">
+
+## 🌐 Connect with Me 🍬
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Faxriyor0705) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fullstack0705@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Faxriyorbey571) 
+</div>
+
+---
+
+<!-- Quote -->
 <p align="center">
   <b>"Code. Create. Conquer. 🚀"</b>
 </p>
 
 ---
 
-## 👁‍🗨 Profile Visits
+<!-- Profile Visits -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Faxriyorbey571&color=00bfbf&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/Faxiyor"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://t.me/Faxriyor0705"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:fullstack0705@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <!-- Footer -->
