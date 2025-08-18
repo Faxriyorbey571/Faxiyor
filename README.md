@@ -5,16 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=I'm+a+Web+Developer;Java+%26+Spring+Boot+Enthusiast;AI+%26+Backend+Explorer;Lifelong+Learner+%F0%9F%92%AA;Always+Building+Something+New"/>
 </p>
-
----
-
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faxriyorbey571&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faxriyorbey571&theme=tokyonight&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faxriyorbey571&theme=tokyonight&hide_border=true&layout=compact" width="36%" /> </br>
-</div>
-
 ---
 
 <!-- Tech Stack -->
