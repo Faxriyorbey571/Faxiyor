@@ -46,7 +46,7 @@
 
 <!-- Quote -->
 <p align="center">
-  <b>"Code. Create. Conquer. 🚀"</b>
+  <b>"Siz har doim talabasiz🚀"</b>
 </p>
 
 ---
