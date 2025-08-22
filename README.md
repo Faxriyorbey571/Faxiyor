@@ -8,10 +8,7 @@
 
 <!-- Tech Stack -->
 <div align="center">
-  
-## 💻 My Skills
 
-## 💻 My Skills
 
 ## 💻 My Skills
 
