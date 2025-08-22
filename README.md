@@ -30,7 +30,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
+## 📊 Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faxriyorbey571&layout=compact&theme=tokyonight)
 
 
 <!-- Social connections -->
